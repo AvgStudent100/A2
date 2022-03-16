@@ -1,0 +1,45 @@
+.vr{
+    text-align: center;
+    background: linear-gradient(rgb(0, 195, 255), rgb(233, 233, 233) 100%);
+    border-radius:800px;
+    width: 150px;
+    height: 30%;
+    margin-left: 600px;
+    margin-top: 250px;
+}
+.ja{
+    padding: 10px;
+    border-radius:800px;
+    width: 100px;
+    height: 30%;
+    margin-left: 560px;
+    text-decoration: black;
+    text-shadow: black;
+    text-decoration-color: black;
+    background-image: linear-gradient(rgb(240, 74, 74), rgb(235, 235, 64) );
+    cursor:grab;
+}
+.yr{
+    text-align: center;
+    padding: 10px;
+    border-radius: 800px;
+    height: 30%;
+    width: 100px;
+    margin-left: 25px;
+    text-decoration: black;
+    text-shadow: black;
+    text-decoration-color: black;
+    background-image:linear-gradient(rgb(18, 250, 211), pink ) ;
+    cursor: grab;
+}
+.t{
+    background-image: linear-gradient(rgb(137, 250, 143), rgb(200, 255, 0));
+    border-radius:900px;
+    border: black;
+    width: 275px;
+    text-align: center;
+    margin-left: 550px;
+    text-shadow: black;
+    text-decoration: black;
+    height: 30%;
+}
