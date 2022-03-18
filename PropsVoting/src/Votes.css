@@ -1,0 +1,17 @@
+.a{
+display: flex;
+justify-content: space-around;
+}
+.c{
+    width:50px;
+    height:50px;
+    border-radius: 100px;
+    background-color: rgb(252, 160, 191);
+}
+.e{
+    border: 5px black solid;
+    width:500px;
+    height:50vh;
+    margin:auto;
+    background-image: linear-gradient(yellow,pink,aqua);
+}
