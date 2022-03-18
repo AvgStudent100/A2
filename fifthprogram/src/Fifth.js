@@ -14,8 +14,8 @@ export class Fifth extends Component {
   }
 
     handleChange=()=>{
-      this.setState({onsubmit:true})
-      this.setState({onsubmit:!this.state.onsubmit})
+       this.setState({onsubmit:true})
+       this.setState({onsubmit:!this.state.onsubmit})
     }
     handlefname=(e)=>{
       this.setState({fname:e.target.value})
