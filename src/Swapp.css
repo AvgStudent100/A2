@@ -1,0 +1,21 @@
+.a{
+    text-align: center;
+    color: rgb(12, 12, 12);
+    text-decoration:underline rgb(255, 4, 4) solid;
+    
+}
+.b{
+    background-image: url("but.png");
+    background-position: center;
+    width:200px;
+    height:40px;
+    border-radius:1000px;
+    margin-left:35%;
+}
+.c{
+    margin-left:25%;
+    height:30%;
+    width:50%;
+    border-radius:800px;
+    background-color: aquamarine;
+}
